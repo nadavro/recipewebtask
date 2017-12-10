@@ -1,0 +1,26 @@
+{
+  "name": "recipewebtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadavro/recipewebtask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadavro/recipewebtask/issues"
+  },
+  "homepage": "https://github.com/nadavro/recipewebtask#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6",
+    "webtask-tools": "^3.2.0"
+  }
+}
